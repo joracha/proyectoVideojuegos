@@ -1,0 +1,2 @@
+width: 372, por cada sprint 124
+height: 52
